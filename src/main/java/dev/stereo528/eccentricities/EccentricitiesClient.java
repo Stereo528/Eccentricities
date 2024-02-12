@@ -1,13 +1,13 @@
-package com.stereo528.example;
+package dev.stereo528.eccentricities;
 
 import eu.midnightdust.lib.config.MidnightConfig;
-import com.stereo528.example.Config.ModConfig;
+import dev.stereo528.eccentricities.config.ModConfig;
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.qsl.base.api.entrypoint.client.ClientModInitializer;
 
-import static com.stereo528.example.Example.MODID;
+import static dev.stereo528.eccentricities.Eccentricities.MODID;
 
-public class ExampleClient implements ClientModInitializer {
+public class EccentricitiesClient implements ClientModInitializer {
 
 	@Override
 	public void onInitializeClient(ModContainer mod) {

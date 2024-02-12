@@ -1,4 +1,4 @@
-package com.stereo528.example.Config;
+package dev.stereo528.eccentricities.config;
 
 import eu.midnightdust.lib.config.MidnightConfig;
 
