@@ -19,9 +19,9 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "dev.stereo528.example.Example",
-			"client_init": "dev.stereo528.example.ExampleClient",
-			"modmenu": "dev.stereo528.example.Config.ModMenuIntegration"
+			"init": "dev.stereo528.eccentricities.Eccentricities",
+			"client_init": "dev.stereo528.eccentricities.EccentricitiesClient",
+			"modmenu": "dev.stereo528.eccentricities.Config.ModMenuIntegration"
 		},
 		"depends": [
 			{
@@ -42,5 +42,5 @@
 			}
 		]
 	},
-	"mixin": "example.mixins.json"
+	"mixin": "eccentricities.mixins.json"
 }

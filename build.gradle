@@ -94,6 +94,11 @@ publishing {
 	}
 }
 
+
+loom {
+	accessWidenerPath = file("src/main/resources/eccentricities.accesswidener")
+}
+
 String getVersion() {
 	def mod_version = project.mod_version
 	def build_id = System.getenv("GITHUB_RUN_NUMBER")

@@ -1,8 +1,6 @@
 # TODO List:
 
 - Crate, large chest (maybe bigger?) in 1x1 block
-- green stone like block
-- blue stone like block
 - amethyst in enchanting (instead of lapis?)
 - firework star + tnt = firework but like on the ground
 - chance for blazes to drop blaze powder as well
@@ -29,4 +27,8 @@
 - end island height variance
 - unenchant golden apple via grindstone
   - add advancement
+- TNT powered elytra (owie)
 
+# DONE
+- green stone like block (Olivine)
+- blue stone like block (Sodalite)

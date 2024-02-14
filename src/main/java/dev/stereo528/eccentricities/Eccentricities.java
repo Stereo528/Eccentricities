@@ -1,6 +1,7 @@
 package dev.stereo528.eccentricities;
 
 import dev.stereo528.eccentricities.blocks.EccentricitiesBlocks;
+import dev.stereo528.eccentricities.util.EccentricitiesBlockTags;
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.qsl.base.api.entrypoint.ModInitializer;
 import org.slf4j.Logger;
@@ -14,5 +15,6 @@ public class Eccentricities implements ModInitializer {
 	public void onInitialize(ModContainer mod) {
 		LOGGER.info("Hello world from {}!", mod.metadata().name());
 		EccentricitiesBlocks.init();
+		EccentricitiesBlockTags.init();
 	}
 }

@@ -1,0 +1,3 @@
+accessWidener v1 named
+
+accessible method net/minecraft/world/level/block/FireBlock getStateForPlacement (Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;

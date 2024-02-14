@@ -1,9 +1,11 @@
 {
 	"required": true,
 	"minVersion": "0.8",
-	"package": "io.github.stereo528.example.mixin",
+	"package": "dev.stereo528.eccentricities.mixin",
 	"compatibilityLevel": "JAVA_17",
-	"mixins": [],
+	"mixins": [
+    "BaseFireBlockMixin"
+  ],
 	"client": [
 	],
 	"injectors": {
