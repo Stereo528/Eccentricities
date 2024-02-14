@@ -5,7 +5,6 @@
 - firework star + tnt = firework but like on the ground
 - chance for blazes to drop blaze powder as well
 - smooth glass blocks?
-- green fire on copper (removes oxidation slowly?)
 - Faster Walk Speed Block
 - silk touchable amethyst bud blocks?
   - tiered versions (like that of ae2 certus buds)
@@ -29,6 +28,11 @@
   - add advancement
 - TNT powered elytra (owie)
 
-# DONE
+
+# WIP
 - green stone like block (Olivine)
 - blue stone like block (Sodalite)
+- green fire on copper (removes oxidation slowly?)
+
+# DONE
+
